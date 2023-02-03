@@ -24,4 +24,4 @@ COPY --from=build /app/build/ .
 
 # Hack to get around the hardcoded folder structure without requiring the user to
 # go to /telegram-react in their browser
-RUN ln -s . telegram-react
+RUN ln -s . telegram
