@@ -56,7 +56,7 @@ Define its value to be the string `https://{username}.github.io/{repo-name}`, wh
     
 ```js
 //...
-"homepage": "https://evgeny-nadymov.github.io/telegram-react"
+"homepage": "https://mixartemev.github.io/telegram"
 ```
 
 4. **Generate a *production build* of your app and deploy it to GitHub Pages.**
